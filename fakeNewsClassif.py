@@ -125,7 +125,7 @@ print(cm)
 
 
 
-# PART 6: Improving your model
+# PART 6: Improving the model
 '''
 Your job in this exercise is to test a few different alpha levels using the Tfidf vectors 
 to determine if there is a better performing combination.
