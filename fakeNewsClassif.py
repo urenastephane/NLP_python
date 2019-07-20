@@ -127,7 +127,7 @@ print(cm)
 
 # PART 6: Improving the model
 '''
-Your job in this exercise is to test a few different alpha levels using the Tfidf vectors 
+The job now is to test a few different alpha levels using the Tfidf vectors 
 to determine if there is a better performing combination.
 The training and test sets have been created, 
 and tfidf_vectorizer, tfidf_train, and tfidf_test have been computed.
